@@ -7,12 +7,16 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
 
     "didDocument": "https://www.w3.org/ns/did/v1",
-
     "didResolutionMetadata": "https://w3id.org/did-resolution#didResolutionMetadata",
+    "didDocumentMetadata": "https://w3id.org/did-resolution#didDocumentMetadata",
+
+    "content": "https://w3id.org/did-resolution#content",
+    "dereferencingMetadata": "https://w3id.org/did-resolution#dereferencingMetadata",
+    "contentMetadata": "https://w3id.org/did-resolution#contentMetadata",
+
     "contentType": "https://w3id.org/did-resolution#contentType",
     "error": "https://w3id.org/did-resolution#error",
 
-    "didDocumentMetadata": "https://w3id.org/did-resolution#didDocumentMetadata",
     "created": {
       "@id": "https://w3id.org/did-resolution#created",
       "@type": "xsd:dateTime"
